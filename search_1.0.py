@@ -6,13 +6,9 @@
 ###5. Calculate upper bound if the document is not present in postings list for a given tokens in query
 
 #*******************************************************************************************************
-###Author : Mukund Prabhune
 ###Date   : 17-Oct-2016
 ###Program Name : search_1.0.py
 ###Subject : Data Mining
-###Assignment : Program assignment 1
-###Professor : Dr. Chengkay Li
-###Machine : intel i7 6th generation
 ###Interpreter : python3.6
 #*******************************************************************************************************
 
